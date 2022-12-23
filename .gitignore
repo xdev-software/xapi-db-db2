@@ -1,0 +1,14 @@
+/bin/
+/bintest/
+
+target/
+bin/
+
+# IDEA
+.idea/
+*.iml
+
+# Eclispe
+.settings
+.classpath
+.project

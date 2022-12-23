@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xdev version="4.0"?>
+
+<plugin 
+	name="DB2 JDBC" 
+	version="0.9.2.1"
+	build-id="20130207-1100"
+	vendor="XDEV Software"
+	icon="db2.png"
+	class="xdev.plugins.DBPlugin"
+	datasource="xdev.db.db2.jdbc.DB2JDBCDataSource"
+	>
+
+	<classpath>db2_jdbc.jar</classpath>
+	<classpath>db2_driver.jar</classpath>
+	
+	<dependancy type="product" versions="4.*,5.*" />
+		
+	<description><![CDATA[
+	
+	JDBC connector for DB2
+	
+	]]></description>
+
+</plugin>
