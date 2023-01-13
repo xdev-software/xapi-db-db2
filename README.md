@@ -32,6 +32,10 @@ We encourage you to read the [contribution instructions by GitHub](https://guide
 The XDEV Application Framework is released under [GNU Lesser General Public License version 3](https://www.gnu.org/licenses/lgpl-3.0.en.html) aka LGPL 3<br/>
 View the [summary of all dependencies online](https://xdev-software.github.io/xapi-db-db2/dependencies/)
 
+## Support
+If you need support as soon as possible and you can not wait for any pull request, feel free to use our support 
+https://xdev.software/en/services/support
+
 ## Releasing [![Build](https://img.shields.io/github/workflow/status/xdev-software/xapi-db-db2/Release?label=Release)](https://github.com/xdev-software/xapi-db-db2/actions/workflows/release.yml)
 Consider doing a [test-deployment](https://github.com/xdev-software/xapi-db-db2/actions/workflows/test-deploy.yml?query=branch%3Adevelop) before actually releasing.
 
